@@ -4,6 +4,7 @@
 - 💞️ fun fact is i love tour and watch movies 
 - 📫 How to reach me ...
 aimlesstuhin@gmail.com
+You can ask me about Java,HTML,Css
 
 <!---
 ranatuhin2/ranatuhin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
